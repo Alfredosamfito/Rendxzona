@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/alfredorubilar/Documents/Practicas Django/Rendxzona/.venv/bin/python" "$0" "$@"
-' '''
+#!/Users/alfredorubilar/Documents/Rendxzona/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
